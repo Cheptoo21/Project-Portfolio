@@ -107,7 +107,7 @@ Clone this repository to your desired folder using:
 
 ```sh
   cd my-folder
-  git clone https://github.com/Cheptoo21/Portfolio-setup-and-mobile-first.git
+  git clone https://github.com/Cheptoo21/Project-Portfolio.git
 ```
 <!-- INSTALL -->
 
@@ -152,8 +152,8 @@ You can deploy this project using:
 ## 🔭 Future Features <a name="future-features"></a>
 
 
-- [ ] **[Desktop Version]**
-- [ ] **[Application deploy]**
+- [ ] **[Pop up window]**
+- [ ] **[Mobile menu]**
 - [ ] **[Evaluate accessibility (pair programming)]**
 - [ ] **[Validate contact form (pair programming)]**
 
