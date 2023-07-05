@@ -356,13 +356,12 @@ button:active {
   visibility: hidden;
 }
 
-/* @media screen and (min-width: 375px) and (max-width: 768px) {
-.socials {
-  margin: 15px 0;
-  margin-top: -50%;
-  margin-bottom: -80%;
+@media screen and (min-width: 375px) and (max-width: 768px) {
+  .socials {
+    margin: 15px 0;
+    margin-top: 3%;
+  }
 }
-} */
 
 @media screen and (min-width: 768px) {
   .navBar {
@@ -591,29 +590,13 @@ button:active {
     top: -100px;
   }
 
-  .background .Background_img1 {
-    position: absolute;
-    left: 0;
-    top: -50px;
-    width: 235.776px;
-    height: 261.791px;
-  }
-
-  .background .Background_img2 {
-    position: absolute;
-    top: 105px;
-    left: 200px;
-    transform: rotate(-25.406deg);
-    flex-shrink: 0;
-  }
-
-  .background .Background_img3 {
-    position: absolute;
-    right: 0;
-    z-index: -1;
-    top: -103px;
-    width: 313.902px;
-    height: 448.701px;
+  .footer_img {
+    padding: 0;
+    background-image: url("frames/form1.png"), url("frames/illustration-2-contact-form-desktop@2x.png"), url("frames/form.png");
+    background-repeat: no-repeat, no-repeat, no-repeat;
+    background-position: 0% 80%, 20% 70%, 100% 55%;
+    background-size: 100px;
+    height: 250px;
   }
 
   .footer {
